@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://mail.sled.rs/sitemap.xml
